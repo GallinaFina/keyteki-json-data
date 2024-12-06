@@ -1,0 +1,9 @@
+{
+    "cardType": "keymander",
+    "properties": {
+        "fundingRequired": 2,
+        "fundingIncrement": 2,
+        "funds": [],
+        "refunds": []
+    }
+}
